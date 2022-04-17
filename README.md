@@ -15,6 +15,7 @@
 	include the full range of values (there should be some form of an equality on at least one end of our statement of parameters).  
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
 >The data indicate that 'successful' and 'failed' campaigns follow similar trends based on their launch date. It would appear that the most successful outcomes in May. Since the graph is closest to inverting in December, one might conclude that the twelve month of the year is a bad time to launch a kickstarter campaign. Additionally, January campaigns have the highest chance of being canceled. The cause of this is difficult to ascertain, but may be attributed to increased spending per household during the holiday months. Conversely, this consideration fails to explain why there aren't relatively more campaigns failing to attain their goals as opposed to cancelling. Further analysis would be required to see why January campaign cancellations are roughly fifty percent more than in any other month.  
 
 ### Analysis of Outcomes Based on Goals
