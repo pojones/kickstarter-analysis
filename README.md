@@ -18,6 +18,7 @@
 >The data indicate that 'successful' and 'failed' campaigns follow similar trends based on their launch date. It would appear that the most successful outcomes in May. Since the graph is closest to inverting in December, one might conclude that the twelve month of the year is a bad time to launch a kickstarter campaign. Additionally, January campaigns have the highest chance of being canceled. The cause of this is difficult to ascertain, but may be attributed to increased spending per household during the holiday months. Conversely, this consideration fails to explain why there aren't relatively more campaigns failing to attain their goals as opposed to cancelling. Further analysis would be required to see why January campaign cancellations are roughly fifty percent more than in any other month.  
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes Based on Goals](Outcomes_vs_Goals.png)
 >From this set, we may conclude that the more backing a campaign asks for, the less successful it becomes. There is an anomaly in the range 40k to 45k, where the graphs for success and failure are inverted. There aren't sufficient data to tell us the cause of this. Perhaps campaigns in this cost range are seen as more "promising". It is also possible to assume that production efforts for plays tend to cost a fixed amount and therefore this tier gets more careful consideration by potential backers. However, any conclusions to explain the anomaly are spurious without further, more detailed analysis. 
 
 ### Challenges and Summary of Limitations
